@@ -1,0 +1,18 @@
+{
+  "name": "ank-bot",
+  "version": "1.0.0",
+  "description": "Ank bot on Hack Club",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^2.0.1",
+    "airtable": "^0.8.1",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
